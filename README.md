@@ -13,7 +13,7 @@
 <div>
     <a href = "https://github.com/henriquevieiradasilva">
     <img height = "175em" src = "https://github-readme-stats.vercel.app/api?username=henriquevieiradasilva&show_icons=false&theme=dark">
-    <img height = "175em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoguanabara&layout=donut&theme=dark">
+    <img height = "175em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquevieiradasilva&layout=donut&theme=dark">
 <div>
   
 #### Mais detalhes sobre mim:
