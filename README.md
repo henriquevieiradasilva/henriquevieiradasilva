@@ -1,4 +1,4 @@
-## Olá! Eu sou o __Henrique Vieira__ 🤙
+## Olá! Eu sou o __Henrique Vieira__ 🤙🏾
 
 ###### "___Programar___ é a arte de ___resolver problemas___, e ___ensinar___ é a forma de ___compartilhar essas soluções___."
 
